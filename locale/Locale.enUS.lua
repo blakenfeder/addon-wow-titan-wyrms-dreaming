@@ -1,4 +1,4 @@
-local L = LibStub("AceLocale-3.0"):NewLocale("WyrmsDramingCrest","enUS",true)
+local L = LibStub("AceLocale-3.0"):NewLocale("WyrmsDreamingCrest","enUS",true)
 
 L["BKFD_TITAN_TOOLTIP_COUNT_LABEL_TOTAL"] = "Total: ";
 L["BKFD_TITAN_TOOLTIP_COUNT_LABEL_TOTAL_MAXIMUM"] = "Total Maximum: ";
